@@ -1,0 +1,40 @@
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.left {
+  width: 33%;
+  text-align: center;
+}
+
+.middle {
+  width: 40%;
+}
+
+.right {
+  width: 27%;
+}
+
+.ie-class {
+  text-align: center;
+  overflow-wrap: break-word;
+}
+
+.farm-class {
+  text-align: left;
+}
+
+.display-hide {
+  display: none;
+}
+
+.btm {
+  bottom: 0;
+  left: 16.5%;
+  transform: translateX(-50%);
+}
